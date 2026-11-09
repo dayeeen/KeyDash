@@ -1,0 +1,17 @@
+{
+  "title": "KeyDash | Arcade Typing Game",
+  "description": "KeyDash is a typing game built with Figma Make where every correct word helps you stay ahead of the chaser. Improve speed, accuracy, and focus.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
